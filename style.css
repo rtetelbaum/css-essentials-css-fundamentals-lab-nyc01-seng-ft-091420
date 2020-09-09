@@ -33,7 +33,10 @@ figcaption {
   margin-right: auto;
 }
 
-#details p {
+#details {
   display: block;
+}
+
+#details p {
   float: left;
 }
